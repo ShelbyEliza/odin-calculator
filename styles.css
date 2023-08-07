@@ -33,6 +33,18 @@ button:hover {
 	border-color: hsl(45, 54%, 70%);
 	cursor: pointer;
 }
+.operator {
+	background: #313d4e;
+	color: snow;
+}
+#equals {
+	background: #c4bed5;
+	color: #1d2839;
+}
+.helper {
+	background: #543f56;
+	color: snow;
+}
 .container {
 	display: flex;
 	flex-direction: column;
